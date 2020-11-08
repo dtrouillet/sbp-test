@@ -1,0 +1,19 @@
+server.port: 8071
+
+spring:
+  mvc:
+    static-path-pattern: /**
+  resources:
+    add-mappings: true
+    cache:
+      period: 3600
+  sbp:
+    runtime-mode: development
+    #    runtime-mode: deployment
+    plugins-root: plugins
+    enabled: true
+    auto-start-plugin: false
+    classes-directories:
+      - "target/classes"
+    controller:
+      base-path: "/sbp/admin"
