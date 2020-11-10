@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package fr.trouillet.devportal;
+package fr.trouillet.devportal.app;
 
 import api.plugin.ICustomPlugin;
 import com.fasterxml.jackson.core.JsonGenerator;

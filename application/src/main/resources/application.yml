@@ -8,12 +8,13 @@ spring:
     cache:
       period: 3600
   sbp:
-    runtime-mode: development
-    #    runtime-mode: deployment
-    plugins-root: plugins
+    #runtime-mode: development
+    runtime-mode: deployment
+    plugins-root: /Users/dtrouillet/IdeaProjects/plugins_test/target/sandbox/plugins
     enabled: true
     auto-start-plugin: false
     classes-directories:
       - "target/classes"
     controller:
       base-path: "/sbp/admin"
+

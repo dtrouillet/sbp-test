@@ -1,4 +1,4 @@
-package fr.trouillet.devportal;
+package fr.trouillet.devportal.plugina;
 
 import api.plugin.ICustomPlugin;
 import org.laxture.sbp.SpringBootPlugin;

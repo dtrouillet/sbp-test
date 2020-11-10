@@ -13,7 +13,7 @@
 
     <properties>
         <plugin.id>plugina</plugin.id>
-        <plugin.class>fr.trouillet.devportal.APlugin</plugin.class>
+        <plugin.class>fr.trouillet.devportal.plugina.APlugin</plugin.class>
         <plugin.version>1.0.0-SNAPSHOT</plugin.version>
         <plugin.provider>dtrouillet</plugin.provider>
         <plugin.dependencies />

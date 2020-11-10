@@ -1,4 +1,4 @@
-package fr.trouillet.devportal;
+package fr.trouillet.devportal.app;
 
 import api.extension.IPluginRegister;
 import org.springframework.beans.factory.annotation.Autowired;

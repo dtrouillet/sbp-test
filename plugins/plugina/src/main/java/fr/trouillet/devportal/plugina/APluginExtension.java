@@ -1,4 +1,4 @@
-package fr.trouillet.devportal;
+package fr.trouillet.devportal.plugina;
 
 import api.extension.IPluginRegister;
 import org.pf4j.Extension;
